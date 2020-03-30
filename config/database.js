@@ -1,6 +1,6 @@
 if(process.env.NODE_ENV === 'production'){
     module.exports = {
-        database: 'mongodb+srv://nithinkatla00:Nithinkatla00@@cluster0-rl7sa.mongodb.net/test?retryWrites=true&w=majority',
+        database: 'mongodb+srv://nithinkatla00:katlanithin333@@cluster0-rl7sa.mongodb.net/test?retryWrites=true&w=majority',
         secret: 'yoursecret'
     };
 }else{
